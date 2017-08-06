@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">India Hacks 2017</string>
+    <string name="enter">ENTER</string>
+    <string name="exit">EXIT</string>
+    <string name="slot_1">Slot 1</string>
+    <string name="slot_2">Slot 2</string>
+    <string name="slot_3">Slot 3</string>
+    <string name="slot_4">Slot 4</string>
+    <string name="slot_5">Slot 5</string>
+    <string name="slot_6">Slot 6</string>
+    <string name="slot_7">Slot 7</string>
+    <string name="slot_8">Slot 8</string>
+    <string name="time_left_to_park">Time left to park</string>
+    <string name="time_left_to_park_in_seconds">Time left to park in seconds</string>
+    <string name="seconds">Seconds</string>
+</resources>
